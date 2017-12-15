@@ -8,7 +8,7 @@
     <string name="highest_rated">Highest Rated</string>
     <string name="favorite">Favorite</string>
     <string name="imagesize">w185</string>
-    <string name="API_KEY">eb526494064b9176a734e28126f7e443</string>
+    <string name="API_KEY">YOUR API KEY</string>
     <string name="action_popular">Most Popular</string>
     <string name="action_toprated">Top Rated</string>
     <string name="imagedescription">Holds the Images to be shown on the main activity</string>
