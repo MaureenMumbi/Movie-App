@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_sorting_criteria_keys">
+        <item>@string/popularity</item>
+        <item>@string/vote_average</item>
+        <item>@string/favorites</item>
+    </string-array>
+
+    <string-array name="pref_sorting_criteria_values">
+        <item>@string/most_popular</item>
+        <item>@string/highest_rated</item>
+        <item>@string/favorite</item>
+    </string-array>
+
+
+</resources>
